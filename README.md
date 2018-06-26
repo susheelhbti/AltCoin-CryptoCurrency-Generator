@@ -1,4 +1,4 @@
-# Altcoin Generator
+# AltCoin CryptoCurrency Generator
 Easiest way to create your own cryptocurrency.
 
 ## What does this script do?
